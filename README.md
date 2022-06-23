@@ -7,4 +7,4 @@ Key users are buyers who can signup, login, edit account, change payment informa
 browse goods, manage cart & orders, make payment, ask for refund etc.
 [Group3 report.pdf](https://github.com/Leo-Ma0502/ecommerce-solution-php/files/8787096/Group3.report.pdf)
 
-Hot to execute: colone this resipetory to XAMPP/xamppfiles/htdocs
+Hot to execute: clone this resipetory to XAMPP/xamppfiles/htdocs
